@@ -1,0 +1,6 @@
+seaborn
+matplotlob
+streamlit
+pandas
+scikit-learn
+seaborn
