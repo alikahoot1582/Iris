@@ -1,5 +1,5 @@
 seaborn
-matplotlob
+matplotlib
 streamlit
 pandas
 scikit-learn
